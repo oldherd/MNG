@@ -1,0 +1,20 @@
+# Generated build products
+**/build/
+*.o
+*.d
+__pycache__/
+*.py[cod]
+
+# Locally prepared data and experiment outputs
+/data/
+/datasets/
+/checkpoints/
+/indexes/
+/results/
+*.mvbundle/
+*.gt/
+
+# Local environment and editor files
+.venv/
+.DS_Store
+*.swp
